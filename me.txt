@@ -3,7 +3,6 @@ three lines is too much so I am gonna use "enter " key, sorry
 I am from Saudi Arabia
 I used to be a lecturere 
 
----------------------
 --------------------
 a third me for the main branch 
 ---------------
@@ -11,4 +10,4 @@ Change because of the new branch
 
 ---------------
 new version from the second branch for merging with the master branch
->>>>>>> secondBranch
+
